@@ -14,7 +14,7 @@
 -- limitations under the License.
 
 -- =============================================================================
--- Getting Started with Cortex Sense and Business Ontology
+-- Getting Started with Cortex Sense, Semantic Views, and Business Ontology
 -- Setup script: run this once, top to bottom (Run All).
 --
 -- A manufacturer runs procurement on SAP. Its tables use SAP's short German
