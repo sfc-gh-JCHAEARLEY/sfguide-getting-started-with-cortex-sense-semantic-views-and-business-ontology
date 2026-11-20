@@ -1,6 +1,6 @@
 # Getting Started with Cortex Sense, Semantic Views, and Business Ontology
 
-Companion repo for the Snowflake guide **[Getting Started with Cortex Sense, Semantic Views, and Business Ontology](https://www.snowflake.com/en/developers/guides/getting-started-with-cortex-sense-and-business-ontology/)**.
+Companion repo for the Snowflake guide **[Getting Started with Cortex Sense, Semantic Views, and Business Ontology](https://www.snowflake.com/en/developers/guides/getting-started-with-cortex-sense-semantic-views-and-business-ontology/)**.
 
 A manufacturer's SAP procurement data has two numbers with a plausible look-alike: the supplier count (14, not the 15 vendor records) and the on-time delivery rate (66.67%, not the 90% carriers report). In the guide you calculate the metrics in a semantic view, define and approve what they mean in Business Ontology, build a Cortex Sense context that brings it all together, and ask CoCo in plain English.
 
