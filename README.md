@@ -29,7 +29,8 @@ Open it in Snowsight as a **Git-backed workspace** (**Projects** » **Workspaces
 ## Clean up
 
 1. Open `teardown.sql` and run it. It deletes the Cortex Sense context, empties and deletes the two ontology domains (only if they carry this lab's `[sense-ontology-qs]` marker), and drops the database, warehouse, role and the `GITHUB_SENSE_ONTOLOGY_LAB` API integration.
-2. Delete your lab workspace in **Projects** » **Workspaces**, then the SQL file in **My Workspace**.
+2. Delete your lab workspace in **Projects** » **Workspaces**.
+3. In the SQL file in **My Workspace**, run `DROP DATABASE IF EXISTS SENSE_ONTOLOGY_GIT;` as ACCOUNTADMIN to remove the database you created for the workspace. Then delete the SQL file.
 
 ## License
 
